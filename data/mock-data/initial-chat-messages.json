@@ -1,0 +1,36 @@
+{
+    "messages": [
+      {
+        "id": 1,
+        "content": "Hello! How can I help you today?",
+        "sender": "bot",
+        "senderName": "Assistant",
+        "timestamp": "2023-06-15T09:00:00.000Z",
+        "status": "seen"
+      },
+      {
+        "id": 2,
+        "content": "I have a question about my account.",
+        "sender": "user",
+        "senderName": "You",
+        "timestamp": "2023-06-15T09:02:00.000Z",
+        "status": "seen"
+      },
+      {
+        "id": 3,
+        "content": "Sure, I'd be happy to help. What's your question?",
+        "sender": "bot",
+        "senderName": "Assistant",
+        "timestamp": "2023-06-15T09:03:00.000Z",
+        "status": "seen"
+      },
+      {
+        "id": 4,
+        "content": "How do I change my password?",
+        "sender": "user",
+        "senderName": "You",
+        "timestamp": "2024-10-31T00:00:00.000Z",
+        "status": "delivered"
+      }
+    ]
+  }
